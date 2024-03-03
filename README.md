@@ -1,12 +1,12 @@
 # Cricket T20 World Cup Data Analytics Project
 
 ## Overview
-This is an end-to-end data analytics project suitable for both beginners and advanced users. In this project, we analyze cricket T20 World Cup data (2022) to assemble the best 11 players team that could potentially play against aliens. The project involves web scraping, data cleaning, transformation, dashboard building, and insights extraction.
+This is an end-to-end data analytics project. In this project, we analyze cricket T20 World Cup data (2022) to assemble the best 11 players team that could potentially play against aliens. The project involves web scraping, data cleaning, transformation, dashboard building, and insights extraction.
 
 ## Contents
 - Problem Statement
 - Requirement Scoping
-- Data Collection Using Web Scraping (from ESPN Cricinfo website)
+- Data Collection Using Web Scraping from ESPN Cricinfo website (python and beatifulsoup )
 - Data Cleaning and Transformation in Python Pandas
 - Data Transformation in Power Query
 - Data Modeling and Building Parameters Using DAX
@@ -27,8 +27,7 @@ This project serves as a solid data science resume project, which can significan
 5. Customize and modify the project as needed for your own learning or presentation purposes.
 
 ## Contributors
-- [Your Name]
-- [Other Contributors, if any]
+- [OUAKIB Amine]
 
 ## License
-This project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [OUAKIB Amine]. See the [LICENSE](LICENSE) file for details.
