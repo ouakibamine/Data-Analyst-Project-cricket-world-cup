@@ -20,7 +20,14 @@ This project serves as a solid data science resume project, which can significan
 ## Result
 ### Page 1
 ![Results](images/page1.PNG)
-
+### Pages Navigation
+![Results](images/navbar.PNG)
+### Page 2
+![Results](images/page2.PNG)
+### Page 3
+![Results](images/page3.PNG)
+### Last Page
+![Results](images/lastpage.PNG)
 ## How to Use
 1. Clone or download the project repository.
 2. Install the required dependencies.
